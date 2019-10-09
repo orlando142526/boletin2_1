@@ -1,6 +1,6 @@
 
 package boletin2_1;
-
+import java.util.Scanner;
 
 public class Boletin2_1 {
 
